@@ -1,0 +1,6 @@
+asyncio==3.4.3
+ecdsa==0.18.0
+leveldb==0.201
+plyvel==1.5.0
+scrypt==0.8.20
+six==1.16.0
