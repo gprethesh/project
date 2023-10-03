@@ -6,7 +6,6 @@ __MACOSX/
 bin/
 include/
 lib/
-pyvenv.cfg
 lib64/
 *.pyc
 
