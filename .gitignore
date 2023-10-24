@@ -15,3 +15,5 @@ lib64/
 # Project-specific ignores
 src/db/
 src/wallet.py
+src/
+db.zip
